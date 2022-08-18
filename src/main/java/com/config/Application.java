@@ -20,7 +20,6 @@ import java.util.Properties;
 @EnableAutoConfiguration
 public class Application {
     public static void main(String[] args) {
-		//Starting springboot app
         SpringApplication.run(Application.class, args);
     }
 
