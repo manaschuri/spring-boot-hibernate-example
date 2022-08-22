@@ -20,6 +20,7 @@ import java.util.Properties;
 @EnableAutoConfiguration
 public class Application {
     public static void main(String[] args) {
+		//This is the entry point to the spintboot application
         SpringApplication.run(Application.class, args);
     }
 
